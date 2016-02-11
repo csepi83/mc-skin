@@ -1,1 +1,4 @@
-copy: ~/.local/share/mc/skins
+cp solarized.ini ~/.local/share/mc/skins
+
+vim ~/.config/mc/ini
+skin=solarized
