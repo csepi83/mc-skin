@@ -2,3 +2,6 @@ cp solarized.ini ~/.local/share/mc/skins
 
 vim ~/.config/mc/ini
 skin=solarized
+
+sh -c "$(wget https://raw.github.com/csepi83/mc-skin/master/tools/install.sh -O -)"
+
